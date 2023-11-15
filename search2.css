@@ -1,0 +1,54 @@
+.age{
+    width: 200px;
+    text-align: center;
+}
+.age-head{
+    color: rgba(21, 98, 212, 0.89);
+    text-align: left;
+    padding-left: 25px;
+}
+.age hr{
+    color: rgba(21, 98, 212, 0.89);
+}
+.datee ul{
+    display: flex;
+    text-align: center;
+}
+.datee ul li{
+    list-style: none;
+    padding: 10px;
+}
+#dat{
+    width: 400px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+}
+.dat-but{
+    border-style: none;
+    border-radius: 8px;
+    background-color: #00ccff;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
+.last{
+    background-color: rgba(21, 98, 212, 0.89);
+    height: 280px;
+
+}
+.last h5{
+    color: white;
+    padding: 40px;
+}
+.but{
+    color: white;
+    background-color: rgb(0, 84, 211);
+    border-style: none;
+    height: 60px;
+    width: 200px;
+    border-radius: 8px;
+}
+.subm{
+    text-align: center;
+}
